@@ -1,0 +1,22 @@
+.comming-soon{
+    position: absolute;z-index: 2;
+   
+    left: auto;
+    right: auto;
+   top:auto;
+   bottom:auto;
+  
+
+}
+.soon{
+    opacity: 0.4;
+}
+.comming-soon h2{
+    font-size: 20px;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
